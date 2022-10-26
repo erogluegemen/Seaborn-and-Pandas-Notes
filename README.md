@@ -1,4 +1,4 @@
-# ✨SeabornWorkout✨
+# ✨Seaborn & Pandas Workout✨
 
 - <b>Trends :</b> A trend is defined as a pattern of change. <br>
     - <b>sns.lineplot</b> : Line charts are best to show trends over a period of time, and multiple lines can be used to show trends in more than one group. <br>
